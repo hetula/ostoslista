@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ MIT License
+  ~
+  ~ Copyright (c) 2017 Tuomo Heino
+  ~
+  ~ Permission is hereby granted, free of charge, to any person obtaining a copy
+  ~ of this software and associated documentation files (the "Software"), to deal
+  ~ in the Software without restriction, including without limitation the rights
+  ~ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  ~ copies of the Software, and to permit persons to whom the Software is
+  ~ furnished to do so, subject to the following conditions:
+  ~
+  ~ The above copyright notice and this permission notice shall be included in all
+  ~ copies or substantial portions of the Software.
+  ~
+  ~ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  ~ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  ~ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  ~ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  ~ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  ~ SOFTWARE.
+  ~
+  -->
+
+<resources>
+    <string name="app_name">Ostoslista</string>
+    <string name="menu_clear">Tyhjennä ostoslista</string>
+    <string name="menu_add">Lisää ostos</string>
+    <string name="cart_list_empty">Tyhjä</string>
+    <string name="cart_list_pending">Listalla</string>
+    <string name="cart_list_in_cart">Korissa</string>
+    <string name="item_amount_field_hint">Määrä</string>
+    <string name="item_name_field_hint">Nimi</string>
+    <string name="item_price_field_hint">Hinta</string>
+    <string name="item_new_title">Lisää uusi ostos</string>
+    <string name="add_item">Lisää</string>
+    <string name="clear_all_items_title">Tyhjennä ostoslista</string>
+    <string name="clear_all_items_message">Tyhjennetäänkö ostoslista?</string>
+    <string name="remove_items">Tyhjennä</string>
+    <string name="desc_to_cart">Lisää koriin</string>
+    <string name="empty_name">Nimi ei voi olla tyhjä!</string>
+    <string name="menu_save">Tallenna ostoslista</string>
+    <string name="shopping_list_saved">Ostoslista tallennettu!</string>
+</resources>
